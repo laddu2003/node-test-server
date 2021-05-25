@@ -1,0 +1,11 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "A Node App",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
